@@ -1,0 +1,32 @@
+body{
+	background-color:#FFEFBF;
+}
+h1,#myList{
+	color:green;
+ } 
+#h3{
+	color:blue;
+}
+.new{
+	color:#6be5c3;
+}
+ul li {
+	color:#cc0000;
+}
+a:link {
+color:#191814;
+}
+a:visited {
+	color:#FF0084;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	color: #55A4EE;
+}
+p {
+	line-height: normal;
+/* Растояние между словами */
+	word-spacing: normal;
+}
